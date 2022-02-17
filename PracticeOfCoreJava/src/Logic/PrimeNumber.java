@@ -14,11 +14,12 @@ public class PrimeNumber {
 		if (temp == count) {
 			System.out.println("yes its prime number");
 		} else {
-			System.out.println("no prime number");
+			System.out.println("no prime number>>>>>");
 		}
 	}
 
 	public static void main(String[] args) {
 		m1();
+		
 	}
 }
